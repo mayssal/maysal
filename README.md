@@ -58,8 +58,8 @@ Robot autonome réalisé avec :
 ## 🌍 Langues
 
 - 🗣 Arabe (natif)
-- 🗣 Français (courant)
-- 🗣 Anglais (courant)
+- 🗣 Français (niveau intermédiaire)
+- 🗣 Anglais (niveau intermédiaire)
 - 🗣 Turc & Espagnol (niveau intermédiaire)
 
 ---
