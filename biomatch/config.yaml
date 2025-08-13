@@ -1,0 +1,19 @@
+# Configuration BioMatch
+
+matching:
+  # seuils de confiance (cosine similarity ~ [-1, 1])
+  min_confidence: 0.35
+  face_weight: 0.6
+  voice_weight: 0.4
+  topk: 5
+
+video:
+  sample_fps: 1
+  max_frames: 20
+
+face:
+  detection_threshold: 0.95
+  image_enhance: true
+
+voice:
+  min_duration_seconds: 2
